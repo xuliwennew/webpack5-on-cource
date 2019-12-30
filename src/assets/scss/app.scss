@@ -1,0 +1,19 @@
+ 
+:root {
+    --white: #fff;
+    --grey: #1e1e1d;
+    --yellow: #ffad15;
+    --offwhite: #f8f8f8;
+ }
+
+$color:blue;
+.boxw {
+    background-color: $color;
+    width: 375px; /*px*/
+    height: 375px; /*px*/
+    
+}
+
+a {
+    color: var(--yellow);
+}
